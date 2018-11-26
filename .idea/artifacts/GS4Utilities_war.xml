@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GS4Utilities:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="GS4Utility.war">
+      <element id="artifact" artifact-name="GS4Utilities:war exploded" />
+    </root>
+  </artifact>
+</component>
